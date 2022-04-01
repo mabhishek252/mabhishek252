@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Mishra
 - 👀 I’m interested in Automation enthusiastic development to reduce cost of project, improve quality of application and last but not least having some challenges.
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any automation projects
 - 📫 How to reach me, Please mail me @mabhishek252@gmail.com or message me @Linckedin: https://www.linkedin.com/in/abhishek-mishra-62725281/
 
